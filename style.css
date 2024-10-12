@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Londrina+Sketch&display=swap');
+
+
+* {
+    font-family: "Lexend", sans-serif;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: "Londrina Sketch", sans-serif;
+    color:yellow;
+    font-size: 70px;
+    background-color: black;
+}
+
+table tbody tr td{
+    font-family: "Caveat", cursive;
+}
